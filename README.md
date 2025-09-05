@@ -1,16 +1,21 @@
-## Hi there 👋
+# 👋 ¡Hola! Soy Jose Francisco
 
-<!--
-**jfcasalesCronos/jfcasalesCronos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+¡Bienvenido a mi perfil de GitHub!  
+  
+  Esta cuenta es solo para hacer pruebas de comunicación y sincronización con la cuenta JFCASALES donde colgaré todos mis proyectos.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📈 Estadísticas de GitHub
+
+![Jose's GitHub stats](https://github-readme-stats.vercel.app/api?username=tuusuario&show_icons=true&theme=tokyonight)
+
+---
+
+## 📫 Cómo contactarme
+
+- 📧 Email: jfcasalescronos@gmail.com  
+
+---
+
+_Gracias por visitar mi perfil._
